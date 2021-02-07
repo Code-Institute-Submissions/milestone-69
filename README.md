@@ -1,8 +1,9 @@
 # Personal Portfolio
 
-One or two paragraphs providing an overview of your project.
+**Milestone 1 project for Code institute Software Development Programme.** 
 
-Essentially, this part is your sales pitch.
+This website is a personal portfolio showcasing my personal information, work history, skills and projects to recruiters and potential employers. The website allows for impressed individuals and employers to make contact for job opportunities, freelance and project collaborations. 
+
  
 ## UX
  
