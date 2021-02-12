@@ -1,0 +1,12 @@
+Zuhur
+Software Developer
+
+Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+
+Frameworks
+- Bootstrap
+- Django
