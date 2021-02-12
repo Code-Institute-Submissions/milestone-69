@@ -6,3 +6,27 @@
 .navbar-nav li {
     padding-right: 4em;
 }
+
+/*Footer*/
+.footer {
+    padding-top: 10px;
+    color: white;
+    background-color: black;
+}
+
+.footer-content i {
+    font-size: 1.5em;
+    color: white;
+}
+
+.copyright {
+    font-size: 0.8em;
+    right: 20px;
+    padding-top: 20px;
+}
+
+.copyright-small {
+    font-size: 0.8em;
+    text-align: center;
+    padding-bottom: 5px;
+}
