@@ -1,4 +1,16 @@
-/*-----------------------------------NavBar*/
+/*-----------------------------------GENERAL*/
+.section-heading {
+    text-align: center;
+    padding: 30px;
+}
+
+.section-heading hr {
+    width: 50px;
+    height: 5px;
+    margin: auto;
+    border-radius: 5px;
+}
+/*-----------------------------------NAVBAR*/
 .navbar-collapse {
     margin-left: 4em;
 }
@@ -12,20 +24,17 @@
 .navbar-nav li {
     padding-right: 4em;
 }
-
-/*-----------------------------------Contact*/
-
-.section-heading {
-    text-align: center;
-    padding: 30px;
+/*-----------------------------------PROJECTS*/
+#project-container {
+    margin: 10px 50px;
 }
-
-.section-heading hr {
-    width: 50px;
-    height: 5px;
-    margin: auto;
-    border-radius: 5px;
+.img-box {
+    margin-top: 20px;
 }
+.btn-more{
+    margin-top: 20px;
+}
+/*-----------------------------------CONTACT*/
 
 .form-container {
     padding: 10px;
