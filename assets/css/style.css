@@ -24,8 +24,28 @@
 .navbar-nav li {
     padding-right: 4em;
 }
+/*-----------------------------------ABOUT*/
+#about i {
+    font-size: 5em;
+}
+
+.skill-box {
+    text-align: center;
+    margin: 50px 0; 
+}
+
+.about-text {
+    margin-top: 30px;
+}
+
+.about-text > p{
+    margin: 0;
+}
+
+
+
 /*-----------------------------------PROJECTS*/
-#project-container {
+.projects-container {
     margin: 10px 50px;
 }
 .img-box {
