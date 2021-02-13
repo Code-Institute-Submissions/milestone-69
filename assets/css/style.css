@@ -1,13 +1,48 @@
-/*NavBar*/
+/*-----------------------------------NavBar*/
 .navbar-collapse {
     margin-left: 4em;
+}
+
+@media (max-width:425px) {
+    .navbar-collapse {
+        margin-left: 1em;
+    }
 }
 
 .navbar-nav li {
     padding-right: 4em;
 }
 
-/*Footer*/
+/*-----------------------------------Contact*/
+
+.section-heading {
+    text-align: center;
+    padding: 30px;
+}
+
+.section-heading hr {
+    width: 50px;
+    height: 5px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.form-container {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.form-contact input{
+    margin-bottom: 20px;
+}
+
+.btn-contact {
+    display: block;
+    margin: 30px auto 0;
+
+}
+
+/*-----------------------------------Footer*/
 .footer {
     padding-top: 10px;
     color: white;
