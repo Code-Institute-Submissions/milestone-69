@@ -1,15 +1,12 @@
 body {
-    background-color: gray;
+    background-color: cadetblue;
+    color: beige;
 }
 
 /*-----------------------------------GENERAL*/
-.section-container {
-    min-height: 100vh;
-    border-bottom: 1px solid gray;
-}
 
 .content-box {
-    padding: 100px;
+    padding:0 50px;
 }
 
 .section-heading {
@@ -23,6 +20,7 @@ body {
     margin: auto;
     border-radius: 5px;
 }
+
 /*-----------------------------------NAVBAR*/
 .navbar-collapse {
     margin-left: 4em;
@@ -37,7 +35,74 @@ body {
 .navbar-nav li {
     padding-right: 4em;
 }
+
+.navbar {
+    position: fixed;
+    width: 98%;
+}
+/*-----------------------------------HOME*/
+#home {
+    background-image: url(/assets/images/crop-pexels-negative-space-34153.jpg);
+    max-width: 100vw;
+    max-height: 100vh;
+    background-size: cover;
+    background-position: left center;
+}
+
+.home-container {
+    min-height: 100vh;
+    border-bottom: 1px solid red;
+}
+
+.home-text {
+    width: 400px;
+    position: absolute;
+    bottom: 30%;
+    left: 20px;
+    text-align: right;
+}
+
+.down {
+    color: cornsilk;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    text-align: center;
+    bottom: 0;
+    border: 1px solid crimson;
+    border-radius: 50px;
+    color: crimson;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 50px;
+}
+
+.down i {
+    padding-top: 12px;
+    color: crimson;
+}
+
+@media (max-width:768px) {
+    .home-text {
+        text-align: left;
+        left: 20px;
+    }
+}
+
+@media (max-width: 375px) {
+    #home {
+        background-position: center top;
+    }
+    .home-text {
+        width: 300px;
+        bottom: 20%;
+    }
+}
 /*-----------------------------------ABOUT*/
+.about-container {
+    padding-top: 50px;
+    border-bottom: 1px solid red;
+}
 #about i {
     font-size: 5em;
 }
@@ -55,12 +120,19 @@ body {
     margin: 0;
 }
 
+
 /*-----------------------------------PROJECTS*/
+.projects-container {
+    padding: 50px 0 20px 0;
+    border-bottom: 1px solid red;
+}
+
 .img-box {
     margin-top: 20px;
+
 }
-.btn-more{
-    margin-top: 20px 0;
+#btn-more{
+    margin-top: 20px;
 }
 /*-----------------------------------CONTACT*/
 
@@ -85,7 +157,9 @@ body {
     color: white;
     background-color: black;
 }
-
+.footer p {
+    margin-bottom: 0;
+}
 .footer-content i {
     font-size: 1.5em;
     color: white;
@@ -102,3 +176,5 @@ body {
     text-align: center;
     padding-bottom: 5px;
 }
+
+

@@ -10,9 +10,10 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+    <!---->
     <header>
         <div class="container-fluid">
-            <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <nav class="navbar navbar-expand-md navbar-dark bg-transparent">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#home">Zuhur Hassan</a>
                     
@@ -22,7 +23,7 @@
                     
                     <div class="collapse navbar-collapse" id="nav-menu">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                            <li class="nav-item"><a class="nav-link" href="#home">About</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                             <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
                             <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                             <li class="nav-item d-md-none"><a class="nav-link" href="#contact">Resume</a></li>
@@ -33,15 +34,28 @@
             </nav>
         </div>
     </header>
-    
+    <!---->
     <main>
-        <section id="home"></section>
+    
+        <section id="home">
+            <div class="home-container">
+                <div class="home-text">
+                    <h1>Full Stack Web Developer</h1>
+                    <p>Welcome to my portfolio!</p>
+                </div>
+                <div class="down">
+                    <a href="#about">
+                        <i class="fas fa-chevron-down fa-fw"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
         
         <section id="about">
-             <div class="container-fluid">
-                <div class="row">
-                    <div class="content-box">
-                        <div class="col section-heading">
+            <div class="container-fluid">
+                <div class="about-container">
+                    <div class="row">
+                        <div class="col-12 section-heading">
                             <h2>About</h2>
                             <hr>
                             <div class="about-text">
@@ -49,28 +63,34 @@
                                 <p>Developing responsive, user-centric and unique websites is my forte.</p>
                             </div>
                         </div>
-                        <div class="row justify-content-center">
-                            <div class="skill-box col-md-3">
-                                <i class="fab fa-html5"></i>
-                            </div>
-                            <div class="skill-box col-md-3">
-                                <i class="fab fa-css3-alt"></i>
-                            </div>
-                            <div class="skill-box col-md-3">
-                                <i class="fab fa-js-square"></i>
-                            </div>
-                            <div class="skill-box col-md-3">
-                                <i class="fab fa-python img-fluid"></i>
-                            </div>
-                            <div class="skill-word-box row justify-content-center">
-                                <div class="skill-box col-md-3">
-                                    <h3>Bootstrap</h3>
+                        <div class="content-box">
+                            <div class="row justify-content-center">
+                                <div class="skill-box col-md-3 col-6">
+                                    <i class="fab fa-html5"></i>
+                                    <p class="mt-2">HTML5</p>
                                 </div>
-                                <div class="skill-box col-md-3">
-                                    <h3>Django</h3>
+                                <div class="skill-box col-md-3 col-6">
+                                    <i class="fab fa-css3-alt"></i>
+                                    <p class="mt-2">CSS3</p>
                                 </div>
-                                <div class="skill-box col-md-3">
-                                    <h3>SQL</h3>
+                                <div class="skill-box col-md-3 col-6">
+                                    <i class="fab fa-js-square"></i>
+                                    <p class="mt-2">JavaScript</p>
+                                </div>
+                                <div class="skill-box col-md-3 col-6">
+                                    <i class="fab fa-python img-fluid"></i>
+                                    <p class="mt-2">Python</p>
+                                </div>
+                                <div class="skill-word-box row justify-content-center">
+                                    <div class="skill-box d-none d-md-block col-md-3">
+                                        <h3>Bootstrap</h3>
+                                    </div>
+                                    <div class="skill-box d-none d-md-block col-md-3">
+                                        <h3>Django</h3>
+                                    </div>
+                                    <div class="skill-box d-none d-md-block col-md-3">
+                                        <h3>SQL</h3>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -78,47 +98,45 @@
                 </div>
             </div>
         </section>
-       
+
         <section id="projects">
-            <div class="container-fluid section-container">
-                <div class="content-box">
-                    <div class="row">
-                        <div class="col section-heading">
-                            <h2>Projects</h2>
-                            <hr>
-                        </div>
-                    </div>
-                    
-                    <div class="row justify-content-center">
-                        <div class="img-box col-lg-4 col-md-6">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="img-box col-lg-4 col-md-6">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="img-box col-lg-4 col-md-6">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="img-box d-none d-md-block col-md-6 col-lg-4">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="img-box d-none d-lg-block col-lg-4">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="d-lg-none col-12 text-center">
-                            <a class="btn-more btn btn-primary" href="#" role="button">More</a>
+            <div class="container-fluid">
+                <div class="projects-container">
+                    <div class="content-box">
+                        <div class="row justify-content-center">
+                            <div class="col-12 section-heading">
+                                <h2>Projects</h2>
+                                <hr>
+                            </div>
+
+                            <div class="img-box col-lg-4 col-md-6">
+                                <a href="#">
+                                    <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="img-box col-lg-4 col-md-6">
+                                <a href="#">
+                                    <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="img-box col-lg-4 col-md-6">
+                                <a href="#">
+                                    <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="img-box d-none d-md-block col-md-6 col-lg-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="img-box d-none d-lg-block col-lg-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="assets/images/pexels-pixabay-531880.jpg" alt="">
+                                </a>
+                            </div>
+                            <div class="d-lg-none col-12 text-center">
+                                <a id="btn-more" class="btn btn-primary" href="#" role="button">More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -126,8 +144,8 @@
         </section>
         
         <section id="contact">
-            <div class="container-fluid section-container">
-                <div class="content-box">
+            <div class="container-fluid">
+                <div class="content-container">
                     <div class="section-heading">
                         <h2>Contact</h2>
                         <hr>
