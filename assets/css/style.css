@@ -9,7 +9,7 @@
     project-h2-color: #ccc5b9
     contact-h2-color: #660708
     
-    about-skils: #C36F09 (same color as skills icon)
+    about-skills: #C36F09 (same color as skills icon)
     about-p: #161a1d
     p: #161a1d
 
@@ -65,7 +65,7 @@ body {
 }
 
 #nav-menu a {
-    color: beige;
+    color: #d67908;
 }
 
 #nav-menu a:hover {
@@ -337,9 +337,5 @@ body {
         text-align: center;
         padding-right: 32px;
     }
-<<<<<<< HEAD
-}
-=======
 
 }
->>>>>>> 484038f0779e6631da7dc8ed3c3db10c002ae148
