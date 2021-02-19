@@ -133,15 +133,30 @@ Google devtools was used to make sure the site is responsive to different device
 
 ## Deployment
 ---
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+#### Fork
+1. Navigate to [repository](https://github.com/Zuhur/milestone-1)
+2. Click fork in the top right corner.
+Follow this link]( https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) on how to fork a repository.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+#### Clone Repository (Local copy)
+1. Navigate to [repository](https://github.com/Zuhur/milestone-1).
+2. Click Code located over the files.
+3. Select how you want to create the local repo.
+4. Copy the url.
+5. Open Terminal.
+6. Change directory to where you want the repo to be.
+7. type "git clone" followed by the url copied in step 4.
+8. Enter, and a Local repo is created.
+Follow this [link](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) on how to clone a repository.
 
+#### Deploy
+1.	Open this repository on Github [https://github.com/Zuhur/milestone-1]( https://github.com/Zuhur/milestone-1).
+2.	Go to settings .
+3.	Scroll down to GitHub Pages.
+4.	Select a branch (master) and then /(root).
+5.	Click save. 
+6.	Link available when scrolled down to Github Pages.
 
 ## Credits
 ---
