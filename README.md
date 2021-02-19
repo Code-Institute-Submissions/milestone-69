@@ -46,7 +46,7 @@ Google fonts:
 -   Ubuntu 
 
 ## Features
---- 
+
 ### Existing Features
 
 #### Header
@@ -85,7 +85,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 
 ## Technologies Used
----
+
 -	HTML5: For the structure of the site.
 -	CSS3: For styling of the site.
 -	Bootsrap5: For fast development of the site and its responsiveness.
@@ -100,7 +100,6 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 
 ## Testing
---
 
 ### HTML Validation
 The validator used was [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
@@ -131,7 +130,7 @@ Google devtools was used to make sure the site is responsive to different device
 
 
 ## Deployment
----
+
 #### Fork
 1. Navigate to [repository](https://github.com/Zuhur/milestone-1)
 2. Click fork in the top right corner.
@@ -158,7 +157,7 @@ Follow this [link](https://docs.github.com/en/github/creating-cloning-and-archiv
 6.	Link available when scrolled down to Github Pages.
 
 ## Credits
----
+
 ### Code used
 Bootstrap 5 Docs: 
 -	Navbar: [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/)
