@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 ![](/assets/reponsive-screenshots.png)\
-**Live Page**: https://zuhur.github.io/milestone-1/ \
+**Live Page**: https://zuhur.github.io/milestone-1/
 
 **Milestone 1 project for Code institute Software Development Programme.** 
 
