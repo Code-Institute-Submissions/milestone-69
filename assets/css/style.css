@@ -59,6 +59,7 @@ h1, h2 {
 
 #nav-menu a {
     color: rgb(245, 245, 220);
+    font-weight: 300;
 }
 
 #nav-menu a:hover {
@@ -308,9 +309,11 @@ h1, h2 {
 .back-top {
     writing-mode: vertical-rl;
     text-orientation: upright;
-    margin:  -15px 5px 0 5px;
+    margin:  -15px 10px 0 10px;
     text-decoration: none ;
     color: blue;
+    font-weight: 300;
+
 }
 
 .back-top:hover {
