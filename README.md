@@ -5,10 +5,29 @@ live page: https://zuhur.github.io/milestone-1/
 
 This website is a personal portfolio showcasing my personal information, work history, skills and projects to recruiters and potential employers. The website allows for impressed individuals and employers to make contact for job opportunities, freelance and project collaborations. 
 
- 
+## Table of contents
+-   [UX](#ux)
+    *   [Surface](#surface)
+    *   [Scope](#scope)
+    *   [Structure](#structure)
+    *   [Skeletal](#skeletal)    
+    *   [Surface](#surface)
+-   [Features](#features)
+    *   [Existing Features](#existing-features) 
+    *   [Features left to Implement]
+-   [Technologies Used](#technologies-used)   
+-   [Testing](#testing)
+    *   [HTML Validation](#HTML-Validation)
+    *   [CSS Validation](#CSS-Validation)
+    *   [Responsiveness](#Responsive)
+    *   [Manual Test](#Manual-Test)
+-   Deployment
+-   Credits 
+
+
 ## UX
 
-### Strategy 
+### Strategy (#strategy)
 The aim of this website is to showcase my skills for potential employers. By building a portfolio website I’ll have an online presence thus increasing my visibility to prospective employers and clients. 
 
 ### Scope
@@ -110,7 +129,7 @@ The validator used was [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.
 The CSS validator used was [https://jigsaw.w3.org/css-validator/validator]( https://jigsaw.w3.org/css-validator/validator)
 -	No error shown
 
-### Responsive
+### Responsiveness
 Google devtools was used to make sure the site is responsive to different devices and screen sizes.
 
 ### Manual Test
