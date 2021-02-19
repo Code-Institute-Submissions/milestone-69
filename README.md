@@ -57,10 +57,16 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+-	HTML5: For the structure of the site.
+-	CSS3: For styling of the site.
+-	Boostrap5: For fast development of the site and its responsiveness.
+-	Fontawesome: For visual icons.
+-	Github: For remote access of the project.
+-	Gitpod: Development environment on the browser.
+-	Git: For version-control.
+-	Visual Studio Code: A development environment as an upgrade to gitpod.
+-	Balsamiq: For designing wireframes.
+-	Google fonts: Styling of the text.
 
 
 ## Testing
