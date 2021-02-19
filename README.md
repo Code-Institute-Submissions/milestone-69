@@ -37,7 +37,8 @@ The wireframes were designed using the balsamiq tool for different sections and 
 ### Surface
 
 #### Colours
-!(assets/color-palette.png)
+The main colours used are displayed below from [Coolors](https://coolors.co/) 
+![](assets/color-palette.png)
 
 #### Fonts
 Google fonts:
