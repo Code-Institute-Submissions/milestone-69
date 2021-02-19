@@ -59,7 +59,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 -	HTML5: For the structure of the site.
 -	CSS3: For styling of the site.
--	Boostrap5: For fast development of the site and its responsiveness.
+-	Bootsrap5: For fast development of the site and its responsiveness.
 -	Fontawesome: For visual icons.
 -	Github: For remote access of the project.
 -	Gitpod: Development environment on the browser.
@@ -67,6 +67,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 -	Visual Studio Code: A development environment as an upgrade to gitpod.
 -	Balsamiq: For designing wireframes.
 -	Google fonts: Styling of the text.
+-   Coolors: For selecting colour palette.
 
 
 ## Testing
@@ -103,13 +104,27 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## Credits
 
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+### Code used
+Bootstrap 5 Docs: 
+-	Navbar: [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/)
+-	Buttons: [https://getbootstrap.com/docs/5.0/components/buttons/](https://getbootstrap.com/docs/5.0/components/buttons/)
+-	Display property: [https://getbootstrap.com/docs/4.5/utilities/display/] (https://getbootstrap.com/docs/4.5/utilities/display/) 
+
+CSS-TRICKS: 
+-	Text-orientation: [https://css-tricks.com/almanac/properties/t/text-orientation/] (https://css-tricks.com/almanac/properties/t/text-orientation/)
+-	Flexbox: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+
+W3school:
+-	Transitions:  [https://www.w3schools.com/css/css3_transitions.asp] (https://www.w3schools.com/css/css3_transitions.asp ) 
+-	Transform Property: [https://www.w3schools.com/cssref/css3_pr_transform.asp] (https://www.w3schools.com/cssref/css3_pr_transform.asp) 
+-	Background position: [https://www.w3schools.com/cssref/pr_background-position.asp] (https://www.w3schools.com/cssref/pr_background-position.asp) 
+
 
 ### Media
-- The photos used in this site were obtained from ...
+Image (from Pexels) by Negative Space:
+-	 https://negativespace.co/illuminated-keyboard/ 
+
 
 ### Acknowledgements
-
-- I received inspiration for this project from X
+I would like to thank my [mentor](https://github.com/deye9) for guiding me during the mentoring sessions on this project.
 
