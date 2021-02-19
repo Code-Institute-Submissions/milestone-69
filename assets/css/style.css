@@ -243,6 +243,11 @@ h1, h2 {
     padding: 30px;
 }
 
+.img-box img {
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out;
+}
+
 .img-box img:hover {
     transform: scale(1.1);
 }
