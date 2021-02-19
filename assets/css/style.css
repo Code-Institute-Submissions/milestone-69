@@ -81,6 +81,12 @@ h1, h2 {
         margin-left: 1em;
     }
 }
+
+@media (max-width:768px) {
+    .navbar-nav li {
+        padding-left: 10px;
+    }
+}
 /*-----------------------------------HOME*/
 #home {
     background-image: url(/milestone-1/assets/images/crop-pexels-negative-space-34153.jpg);
