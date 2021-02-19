@@ -28,6 +28,15 @@ h1, h2 {
     border-radius: 5px;
 }
 
+.section-text {
+    margin-top: 30px;
+    color: #161a1d;
+}
+
+.section-text > p {
+    margin: 0;
+}
+
 /*-----------------------------------NAVBAR*/
 .navbar-nav {
     margin: auto;
@@ -173,10 +182,6 @@ h1, h2 {
     color: #C36F09;
 }
 
-#about p{
-    color: #161a1d;
-}
-
 .about-container {
     padding-top: 50px;
 }
@@ -189,15 +194,6 @@ h1, h2 {
     text-align: center;
     margin: 50px 0; 
 }
-
-.about-text {
-    margin-top: 30px;
-}
-
-.about-text > p {
-    margin: 0;
-}
-
 
 /*-----------------------------------PROJECTS*/
 #projects {
