@@ -7,16 +7,35 @@ This website is a personal portfolio showcasing my personal information, work hi
 
  
 ## UX
+ ---
+
+### Strategy 
+The aim of this website is to showcase my skills for potential employers. By building a portfolio website I’ll have an online presence thus increasing my visibility to prospective employers and clients. 
+
+### Scope
+The first page is a simplistic yet eye catching telling the user the purpose of the page with only a glance. The user will be able to assess if the candidate is suitable only using website by showcasing the projects and skills. For further information links are provided such as resume for further professional evaluation and social media links for more personal evaluation.
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+### Structure 
+The structure of the site is a single page application to prevent loading of pages and significantly reduce any waiting time. This will make it easy to quickly view and gather information from the site. Projects are displayed in noticeable way providing brief introduction and a link for further detail on the project. There are clickable icons provided along the site allowing user to be guided throughout the website, this prevents user getting distracted or lost browsing the site. The navigation links are placed in the header for ease of access while browsing different sections and are in a toggler icon for smaller devices. A noticeable resume button will be accessible through different screen sizes constantly available on the header and social media links available in the footer.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+### Skeletal 
+The wireframes were designed using the balsamiq tool for different sections and screen sizes. These can be found below:
+-   Front page
+    *   [Desktop] ()
+    *   [Tablet/phone] ()
+-	About section
+    *   [Desktop] ()
+    *   [Tablet/phone] ()
+-	Projects section
+    *   [Desktop] ()
+    *   [Tablet/phone] ()
+-	Contact section
+    *   [Desktop] ()
+    *   [Tablet/phone] ()
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
-
+---
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
@@ -56,7 +75,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 
 ## Technologies Used
-
+---
 -	HTML5: For the structure of the site.
 -	CSS3: For styling of the site.
 -	Bootsrap5: For fast development of the site and its responsiveness.
@@ -71,7 +90,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 
 ## Testing
-
+--
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -91,7 +110,7 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
-
+---
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -103,7 +122,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
-
+---
 ### Code used
 Bootstrap 5 Docs: 
 -	Navbar: [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/)
