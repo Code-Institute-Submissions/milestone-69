@@ -22,17 +22,17 @@ The structure of the site is a single page application to prevent loading of pag
 #### Wireframes
 The wireframes were designed using the balsamiq tool for different sections and screen sizes. These can be found below:
 -   Front page
-    *   [Desktop](/milestone-1/assets/ms1-wireframes/Front-desktop.png)
-    *   [Tablet/phone](/milestone-1/assets/ms1-wireframes/Front)
+    *   [Desktop](assets/ms1-wireframes/Front-desktop.png)
+    *   [Tablet/phone](assets/ms1-wireframes/Front-tablet_phone.png)
 -	About section
-    *   [Desktop](/milestone-1/assets/ms1-wireframes/About)
-    *   [Tablet/phone](/milestone-1/assets/ms1-wireframes/About)
+    *   [Desktop](assets/ms1-wireframes/About-tablet_phone.png)
+    *   [Tablet/phone](assets/ms1-wireframes/About-tablet_phone.png)
 -	Projects section
-    *   [Desktop](/milestone-1/assets/ms1-wireframes/Project-Desktop.png)
+    *   [Desktop](assets/ms1-wireframes/Project-Desktop.png)
     *   [Tablet/phone](assets/ms1-wireframes/Project-Tablet.png)
 -	Contact section
-    *   [Desktop](/milestone-1/assets/ms1-wireframes/Contact-desktop.png)
-    *   [Tablet/phone](/milestone-1/assets/ms1-wireframes/contact-tablet.png)
+    *   [Desktop](assets/ms1-wireframes/Contact-desktop.png)
+    *   [Tablet/phone](assets/ms1-wireframes/contact-tablet.png)
 
 ### Surface
 
