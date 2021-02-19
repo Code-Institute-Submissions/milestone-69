@@ -43,23 +43,26 @@ h1, h2 {
 }
 
 .navbar-brand {
-    margin-right: 0;
+    color: white;
+    padding-left: 10px;
 }
+
 .navbar-nav li {
     padding: 0 4em;
 }
 
 .navbar {
     position: fixed;
-    width: 98%;
+    width: 100%;
+    z-index: 1;
 }
 
 #nav-menu a {
-    color: beige;
+    color: rgb(245, 245, 220);
 }
 
 #nav-menu a:hover {
-    transform: scale(1.1);
+    color: rgba(245, 245, 220, 0.5); 
 }
 
 #resume-btn {
@@ -76,17 +79,6 @@ h1, h2 {
     transition-timing-function: ease-in-out;
 }
 
-@media (max-width:425px) {
-    .navbar-collapse {
-        margin-left: 1em;
-    }
-}
-
-@media (max-width:768px) {
-    .navbar-nav li {
-        padding-left: 10px;
-    }
-}
 /*-----------------------------------HOME*/
 #home {
     background-image: url(/milestone-1/assets/images/crop-pexels-negative-space-34153.jpg);
