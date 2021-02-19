@@ -97,28 +97,39 @@ Footer: The footer contains nav links to social media pages and copyright inform
 -	Visual Studio Code: A development environment as an upgrade to gitpod.
 -	Balsamiq: For designing wireframes.
 -	Google fonts: Styling of the text.
--   Coolors: For selecting colour palette.
+- Coolors: For selecting colour palette.
 
 
 ## Testing
 --
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+### HTML Validation
+The validator used was [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
+- It highlighted a stray end tag which was removed
+-	No errors now remain
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+### CSS Validation
+The CSS validator used was [https://jigsaw.w3.org/css-validator/validator]( https://jigsaw.w3.org/css-validator/validator)
+-	No error shown
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+### Responsive
+Google devtools was used to make sure the site is responsive to different devices and screen sizes.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Manual Test
+#### Header
+- All links were engaged to make sure they correspond to the right location.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+#### Home
+- The button on the front page correctly takes you the about page.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+#### Projects
+- Hovering over each project transforms correctly
+- Clicking each page takes to the github page for further detail
+
+#### Contact
+- The form was submitted without any input - correctly prompted to fill in field
+- Form was submitted with wrong input - promted to add using email format
+
 
 ## Deployment
 ---
