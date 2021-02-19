@@ -63,17 +63,17 @@ h1, h2 {
 }
 
 #resume-btn {
-    border: 2px solid #b1a7a6;
-    background-color: rgba(0,0,0,0);
-    border-radius: 60px;
-    transition-duration: 0.6s;
-    transition-timing-function: ease-in-out;
-}
-
-#resume-btn:hover {
     border-color: #d62828;
     background-color: #d62828;
     color: white;
+    border-radius: 60px;
+}
+
+#resume-btn:hover {
+    border: 2px solid #b1a7a6;
+    background-color: rgba(0,0,0,0);
+    transition-duration: 0.6s;
+    transition-timing-function: ease-in-out;
 }
 
 @media (max-width:425px) {
