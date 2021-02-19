@@ -7,7 +7,6 @@ This website is a personal portfolio showcasing my personal information, work hi
 
  
 ## UX
- ---
 
 ### Strategy 
 The aim of this website is to showcase my skills for potential employers. By building a portfolio website I’ll have an online presence thus increasing my visibility to prospective employers and clients. 
@@ -46,7 +45,7 @@ Google fonts:
 -   Ubuntu 
 
 ## Features
----
+
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
@@ -87,7 +86,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 
 ## Technologies Used
----
+
 -	HTML5: For the structure of the site.
 -	CSS3: For styling of the site.
 -	Bootsrap5: For fast development of the site and its responsiveness.
@@ -102,7 +101,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 
 
 ## Testing
---
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -122,7 +121,7 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
----
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -134,7 +133,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
----
+
 ### Code used
 Bootstrap 5 Docs: 
 -	Navbar: [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/)
