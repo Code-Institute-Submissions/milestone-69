@@ -1,7 +1,7 @@
-live page: https://zuhur.github.io/milestone-1/
 # Personal Portfolio
 
 ![](/assets/reponsive-screenshots.png)
+Live Page: https://zuhur.github.io/milestone-1/
 **Milestone 1 project for Code institute Software Development Programme.** 
 
 This website is a personal portfolio showcasing my personal information, work history, skills and projects to recruiters and potential employers. The website allows for impressed individuals and employers to make contact for job opportunities, freelance and project collaborations. 
