@@ -1,27 +1,6 @@
-
-
-/* colors 
-    orange heading : #eb5e28
-    about-background: #ccc5b9
-    projects-background: #660708
-    
-    about-h2-color: #660708 - 
-    project-h2-color: #ccc5b9
-    contact-h2-color: #660708
-    
-    about-skills: #C36F09 (same color as skills icon)
-    about-p: #161a1d
-    p: #161a1d
-
-    h1-font:
-    h2-font:
-    p-font: Karla;
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;400;500;600&family=Roboto+Mono&family=Truculenta:wght@300;400;500;600;700;800&family=Ubuntu+Mono:wght@700&family=Ubuntu:wght@500;700&display=swap');
 
-
-/*-----------------------------------TEST*/
+/*-----------------------------------GENERAL*/
 body {
     font-family: 'Karla', sans-serif;
     background-color: #ccc5b9;
@@ -32,12 +11,6 @@ body {
 h1, h2 {
     font-family: 'Ubuntu', sans-serif;
 }
-
-/*-----------------------------------BODY*/
-
-
-
-/*-----------------------------------GENERAL*/
 
 .content-box {
     padding:0 20px;
