@@ -22,11 +22,11 @@ The structure of the site is a single page application to prevent loading of pag
 #### Wireframes
 The wireframes were designed using the balsamiq tool for different sections and screen sizes. These can be found below:
 -   Front page
-    *   [Desktop](assets/ms1-wireframes/Front page desktop.png)
-    *   [Tablet/phone](assets/ms1-wireframes/Front Page tablet + phone.png)
+    *   [Desktop](assets/ms1-wireframes/Front)
+    *   [Tablet/phone](assets/ms1-wireframes/Front)
 -	About section
-    *   [Desktop](assets/ms1-wireframes/About - Desktop.png)
-    *   [Tablet/phone](assets/ms1-wireframes/About - tablet_phone.png)
+    *   [Desktop](assets/ms1-wireframes/About)
+    *   [Tablet/phone](assets/ms1-wireframes/About)
 -	Projects section
     *   [Desktop](assets/ms1-wireframes/Project-Desktop.png)
     *   [Tablet/phone](assets/ms1-wireframes/Project-Tablet.png)
