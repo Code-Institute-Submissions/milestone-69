@@ -20,15 +20,40 @@ This section is also where you would share links to any wireframes, mockups, dia
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+#### Header
+Navbar: Used bootstraps navbar for a responsive header. The header is transparent and fixed to the top of the page with my name as the nav logo.
+For large screens navigation links are visible as:
+*   About
+*	Projects
+*	Contact
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+There is also a resume button on the top right corner of the page that opens to a file in a new tab.
+For medium and smaller screens, the navigation links and resume button are presented within a hamburger icon as.
+*	About
+*	Projects
+*	Contact
+*	Resume
+
+#### Sections
+Home: This section contains the main background image taking up full height and width of the page. A brief introduction is given as the header to the page and an inviting circular button at the bottom to take user to the next section. 
+
+About: This section contains a personal introduction and icons/text to showcase skills. 
+
+Projects: This section showcases five projects on large devices and four projects on devices smaller than large. On medium and smaller devices there is also a button directing to all the projects on a new tab.
+
+Contact: This section contains a form to make contact for opportunities and includes required inputs:
+*   Name
+*   Email
+*   Message
+
+#### Footer
+Footer: The footer contains nav links to social media pages and copyright information. There is also a vertical text in large devices when pressed goes back to home page and the text is changed to an icon for smaller devices.
 
 ### Features Left to Implement
-- Another feature idea
+-   The projects section will get much bigger with more projects to come. Thus, the structure will change. With more projects the column and row features could be removed and also add a ‘more’ button to larger screens.
+-	Also, the header nav links can clash with backgrounds and a feature which changes the colour when scrolling could be implemented. 
+
 
 ## Technologies Used
 
