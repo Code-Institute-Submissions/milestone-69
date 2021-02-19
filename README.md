@@ -18,21 +18,32 @@ The first page is a simplistic yet eye catching telling the user the purpose of 
 ### Structure 
 The structure of the site is a single page application to prevent loading of pages and significantly reduce any waiting time. This will make it easy to quickly view and gather information from the site. Projects are displayed in noticeable way providing brief introduction and a link for further detail on the project. There are clickable icons provided along the site allowing user to be guided throughout the website, this prevents user getting distracted or lost browsing the site. The navigation links are placed in the header for ease of access while browsing different sections and are in a toggler icon for smaller devices. A noticeable resume button will be accessible through different screen sizes constantly available on the header and social media links available in the footer.
 
-### Skeletal 
+### Skeletal
+
+#### Wireframes
 The wireframes were designed using the balsamiq tool for different sections and screen sizes. These can be found below:
 -   Front page
-    *   [Desktop] ()
-    *   [Tablet/phone] ()
+    *   [Desktop](assets/ms1-wireframes/Front page desktop.png)
+    *   [Tablet/phone](assets/ms1-wireframes/Front Page tablet + phone.png)
 -	About section
-    *   [Desktop] ()
-    *   [Tablet/phone] ()
+    *   [Desktop](assets/ms1-wireframes/About - Desktop.png)
+    *   [Tablet/phone](assets/ms1-wireframes/About - tablet_phone.png)
 -	Projects section
-    *   [Desktop] ()
-    *   [Tablet/phone] ()
+    *   [Desktop](assets/ms1-wireframes/Project-Desktop.png)
+    *   [Tablet/phone](assets/ms1-wireframes/Project-Tablet.png)
 -	Contact section
-    *   [Desktop] ()
-    *   [Tablet/phone] ()
+    *   [Desktop](assets/ms1-wireframes/Contact-desktop.png)
+    *   [Tablet/phone](assets/ms1-wireframes/contact-tablet.png)
 
+### Surface
+
+#### Colours
+!(assets/color-palette.png)
+
+#### Fonts
+Google fonts:
+-   Karla
+-   Ubuntu 
 
 ## Features
 ---
@@ -70,6 +81,7 @@ Contact: This section contains a form to make contact for opportunities and incl
 Footer: The footer contains nav links to social media pages and copyright information. There is also a vertical text in large devices when pressed goes back to home page and the text is changed to an icon for smaller devices.
 
 ### Features Left to Implement
+#### Future
 -   The projects section will get much bigger with more projects to come. Thus, the structure will change. With more projects the column and row features could be removed and also add a ‘more’ button to larger screens.
 -	Also, the header nav links can clash with backgrounds and a feature which changes the colour when scrolling could be implemented. 
 
@@ -127,16 +139,16 @@ In addition, if it is not obvious, you should also describe how to run your code
 Bootstrap 5 Docs: 
 -	Navbar: [https://getbootstrap.com/docs/5.0/components/navbar/](https://getbootstrap.com/docs/5.0/components/navbar/)
 -	Buttons: [https://getbootstrap.com/docs/5.0/components/buttons/](https://getbootstrap.com/docs/5.0/components/buttons/)
--	Display property: [https://getbootstrap.com/docs/4.5/utilities/display/] (https://getbootstrap.com/docs/4.5/utilities/display/) 
+-	Display property: [https://getbootstrap.com/docs/4.5/utilities/display/](https://getbootstrap.com/docs/4.5/utilities/display/) 
 
 CSS-TRICKS: 
--	Text-orientation: [https://css-tricks.com/almanac/properties/t/text-orientation/] (https://css-tricks.com/almanac/properties/t/text-orientation/)
--	Flexbox: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+-	Text-orientation: [https://css-tricks.com/almanac/properties/t/text-orientation/](https://css-tricks.com/almanac/properties/t/text-orientation/)
+-	Flexbox: [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 
 W3school:
--	Transitions:  [https://www.w3schools.com/css/css3_transitions.asp] (https://www.w3schools.com/css/css3_transitions.asp ) 
--	Transform Property: [https://www.w3schools.com/cssref/css3_pr_transform.asp] (https://www.w3schools.com/cssref/css3_pr_transform.asp) 
--	Background position: [https://www.w3schools.com/cssref/pr_background-position.asp] (https://www.w3schools.com/cssref/pr_background-position.asp) 
+-	Transitions:  [https://www.w3schools.com/css/css3_transitions.asp](https://www.w3schools.com/css/css3_transitions.asp ) 
+-	Transform Property: [https://www.w3schools.com/cssref/css3_pr_transform.asp](https://www.w3schools.com/cssref/css3_pr_transform.asp) 
+-	Background position: [https://www.w3schools.com/cssref/pr_background-position.asp](https://www.w3schools.com/cssref/pr_background-position.asp) 
 
 
 ### Media
