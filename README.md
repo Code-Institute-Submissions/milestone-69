@@ -22,7 +22,7 @@ The structure of the site is a single page application to prevent loading of pag
 #### Wireframes
 The wireframes were designed using the balsamiq tool for different sections and screen sizes. These can be found below:
 -   Front page
-    *   [Desktop](milestone-1/assets/ms1-wireframes/Front-desktop.png)
+    *   [Desktop](/milestone-1/assets/ms1-wireframes/Front-desktop.png)
     *   [Tablet/phone](/milestone-1/assets/ms1-wireframes/Front)
 -	About section
     *   [Desktop](/milestone-1/assets/ms1-wireframes/About)
@@ -37,7 +37,7 @@ The wireframes were designed using the balsamiq tool for different sections and 
 ### Surface
 
 #### Colours
-!(assets/color-palette.png)
+![](assets/color-palette.png)
 
 #### Fonts
 Google fonts:
