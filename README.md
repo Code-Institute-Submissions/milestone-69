@@ -14,12 +14,12 @@ This website is a personal portfolio showcasing my personal information, work hi
     *   [Surface](#surface)
 -   [Features](#features)
     *   [Existing Features](#existing-features) 
-    *   [Features left to Implement]
+    *   [Features left to Implement](#Features-Left-to-Implement)
 -   [Technologies Used](#technologies-used)   
 -   [Testing](#testing)
     *   [HTML Validation](#HTML-Validation)
     *   [CSS Validation](#CSS-Validation)
-    *   [Responsiveness](#Responsive)
+    *   [Responsiveness](#Responsiveness)
     *   [Manual Test](#Manual-Test)
 -   Deployment
 -   Credits 
@@ -129,7 +129,7 @@ The validator used was [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.
 The CSS validator used was [https://jigsaw.w3.org/css-validator/validator]( https://jigsaw.w3.org/css-validator/validator)
 -	No error shown
 
-### Responsiveness
+### Responsivness
 Google devtools was used to make sure the site is responsive to different devices and screen sizes.
 
 ### Manual Test
