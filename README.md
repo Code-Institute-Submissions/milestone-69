@@ -46,9 +46,7 @@ Google fonts:
 -   Ubuntu 
 
 ## Features
----
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
+--- 
 ### Existing Features
 
 #### Header
