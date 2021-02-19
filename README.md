@@ -21,8 +21,8 @@ This website is a personal portfolio showcasing my personal information, work hi
     *   [CSS Validation](#CSS-Validation)
     *   [Responsiveness](#Responsiveness)
     *   [Manual Test](#Manual-Test)
--   Deployment
--   Credits 
+-   [Deployment](#Deployment)
+-   [Credits](#Credits)
 
 
 ## UX
