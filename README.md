@@ -123,7 +123,7 @@ Footer: The footer contains nav links to social media pages and copyright inform
 ## Testing
 
 ### HTML Validation
-The validator used was [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
+The validator used was [https://validator.w3.org/](https://validator.w3.org/)
 - It highlighted a stray end tag which was removed
 -	No errors now remain
 
