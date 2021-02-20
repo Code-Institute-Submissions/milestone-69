@@ -9,7 +9,7 @@ This website is a personal portfolio showcasing my personal information, work hi
 
 ## Table of contents
 -   [UX](#ux)
-    *   [Surface](#surface)
+    *   [Strategy](#strategy)
     *   [Scope](#scope)
     *   [Structure](#structure)
     *   [Skeletal](#skeletal)    
@@ -29,7 +29,7 @@ This website is a personal portfolio showcasing my personal information, work hi
 
 ## UX
 
-### Strategy (#strategy)
+### Strategy
 The aim of this website is to showcase my skills for potential employers. By building a portfolio website I’ll have an online presence thus increasing my visibility to prospective employers and clients. 
 
 ### Scope
