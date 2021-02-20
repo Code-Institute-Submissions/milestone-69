@@ -155,7 +155,8 @@ Google devtools was used to make sure the site is responsive to different device
 #### Fork
 1. Navigate to [repository](https://github.com/Zuhur/milestone-1)
 2. Click fork in the top right corner.
-Follow this link]( https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) on how to fork a repository.
+
+Follow this [link]( https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) on how to fork a repository.
 
 
 #### Clone Repository (Local copy)
@@ -167,6 +168,7 @@ Follow this link]( https://docs.github.com/en/github/getting-started-with-github
 6. Change directory to where you want the repo to be.
 7. type "git clone" followed by the url copied in step 4.
 8. Enter, and a Local repo is created.
+
 Follow this [link](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) on how to clone a repository.
 
 #### Deploy
